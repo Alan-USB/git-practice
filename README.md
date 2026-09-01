@@ -1,3 +1,7 @@
 # Git Practice
 
-Reposotory created to learn the basic Git and GItHub workflow.
+Repository created to learn the basic Git and GItHub workflow.
+
+# objective
+
+Practice the local Git workflow before connecting th repository to GitHu. 
