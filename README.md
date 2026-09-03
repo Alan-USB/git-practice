@@ -8,3 +8,7 @@ Practice the local Git workflow before connecting th repository to GitHu.
 
 ## Remote practice 
 This change was made directly from GitHub
+
+## Branch practice
+
+This change was created in the feature/and-branch-note branch.
