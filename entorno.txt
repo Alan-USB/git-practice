@@ -1,1 +1,3 @@
-Entorno activo: producción
+Entorno configurados:
+- Pruebas
+- Produccion
